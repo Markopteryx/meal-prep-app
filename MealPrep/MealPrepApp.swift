@@ -1,10 +1,3 @@
-//
-//  MealPrepApp.swift
-//  MealPrep
-//
-//  Created by Darko on 14/6/2024.
-//
-
 import SwiftUI
 import SwiftData
 
